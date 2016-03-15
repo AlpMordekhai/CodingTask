@@ -1,0 +1,6 @@
+framework module Pods_CodingTask_Futurice {
+  umbrella header "Pods-CodingTask_Futurice-umbrella.h"
+
+  export *
+  module * { export * }
+}
